@@ -1,0 +1,17 @@
+# Google 服務帳戶金鑰 — 絕對不可上傳
+gen-lang-client-*.json
+*.credentials.json
+
+node_modules/
+
+# 舊版備份檔,留在本機即可(v2 內嵌原始音檔 base64,是音檔備份來源)
+越語核心989中文版v2.html
+越南語學習平台(離線版).html
+index.htm
+
+# 與本 app 無關的資料集與舊測試檔
+vietnamese_cefr_a1_500_v0_2/
+vietnamese_cefr_a2_800_v0_1/
+words.csv
+manifest.json
+audio/a1_*.mp3
