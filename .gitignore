@@ -2,7 +2,13 @@
 gen-lang-client-*.json
 *.credentials.json
 
+# 壓縮備份檔
+*.7z
+*.zip
+
 node_modules/
+docs/
+scripts/
 
 # 舊版備份檔,留在本機即可(v2 內嵌原始音檔 base64,是音檔備份來源)
 越語核心989中文版v2.html
